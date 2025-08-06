@@ -173,6 +173,10 @@ Rayyan Syed - [@rayyansyed110](https://github.com/rayyansyed110) - syedrayyanahm
 
 Project Link: [https://github.com/rayyansyed110/nike-ai-sentiment](https://github.com/rayyansyed110/nike-ai-sentiment)
 
+LinkedIn : https://www.linkedin.com/in/syed-rayyan-ahmed/
+
+Email: syedrayyanahmed1853@gmail.com
+
 ---
 
 *This project demonstrates the power of AI-driven sentiment analysis for business intelligence and strategic decision-making.*
