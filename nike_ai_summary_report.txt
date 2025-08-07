@@ -1,0 +1,20 @@
+
+    Nike YouTube Video Sentiment Analysis Report
+    ============================================
+    
+    Based on aspect-based sentiment analysis of customer comments, the following insights were identified:
+    
+    Top Customer Aspects and Sentiments:
+    - unknown: 11 positive, 12 neutral, 2 negative
+- a pair: 4 positive, 3 neutral, 0 negative
+- this: 4 positive, 1 neutral, 0 negative
+- you: 4 positive, 3 neutral, 0 negative
+- these: 3 positive, 1 neutral, 0 negative
+    
+    Key Recommendations:
+    • Increase product availability to meet high demand
+    • Improve communication about release quantities and timing
+    • Address reseller and bot issues in the purchasing process
+    
+    Note: This is a simplified report due to API connectivity issues.
+    
